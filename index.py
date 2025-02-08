@@ -1,4 +1,10 @@
 # print('Nazar')
+# class person:
+#     a=1
+#     b=2
+
 class person:
-    a=1
-    b=2
+    def get(self):
+        print('nazar')
+xhisd=person()
+xhisd.get()
